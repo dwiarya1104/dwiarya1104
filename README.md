@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dwi Arya Putra</h1>
 <h3 align="center">Student of Software Engineering in SMKN 10 Jakarta</h3>
-
+<p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dwiarya1104&count_private=true&show_icons=true&theme=dracula" />
 </a><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dwiarya1104&theme=dracula"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dwiarya1104&theme=dracula"/> <br/>
+ </p>
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwiarya1104&layout=compact&theme=dracula&langs_count=12"/><br />
 </p>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
